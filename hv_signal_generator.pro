@@ -1,4 +1,4 @@
-update=2/12/2016 2:53:38 PM
+update=2017-04-04 7:47:54 AM
 last_client=kicad
 [general]
 version=1
@@ -73,3 +73,13 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=library/wheelerlab
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=svg
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
